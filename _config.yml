@@ -2,8 +2,8 @@
 title: King County Metro Paratransit Group
 email: Valentina Staneva<vms16@uw.edu>
 description: "#DSSG2015 @uwescience"
-baseurl: "/DSSG2015-paratransit"
-url: uwescience.github.io/DSSG2015-paratransit
+baseurl: "/DSSG2015-paratransit/"
+url: "http://uwescience.github.io/DSSG2015-paratransit/"
 twitter_username: uwescience
 github_username:  uwescience
 
