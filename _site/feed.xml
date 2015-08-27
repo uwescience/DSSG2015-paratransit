@@ -3,10 +3,10 @@
   <channel>
     <title>King County Metro Paratransit Group</title>
     <description>#DSSG2015 @uwescience</description>
-    <link>http://uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/</link>
-    <atom:link href="http://uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Aug 2015 12:58:09 -0700</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2015 12:58:09 -0700</lastBuildDate>
+    <link>uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/</link>
+    <atom:link href="uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Aug 2015 13:12:22 -0700</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2015 13:12:22 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -33,17 +33,17 @@
 &lt;h4 id=&quot;dreu-fellow&quot;&gt;DREU Fellow:&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Emily Andrulis, Cornell College&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/images/paratransit-collage.png&quot; alt=&quot;collage&quot; style=&quot;padding-right: 10px; padding-bottom: 10px&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paratransit-collage.png&quot; alt=&quot;collage&quot; style=&quot;padding-right: 10px; padding-bottom: 10px&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Paratransit team collaborated with King County Metro to improve operations of the Paratransit service which is an on-demand public transportation program that provides door-to-door rides for people with limited ability who are unable to use traditional fixed route services. Currently, King County Metro paratransit trips cost approximately ten times as much as an equivalent trip using a fixed-route service, so the team concentrated their efforts on identifying costly routes, providing cost-driven recommendations for rescheduling broken buses, and better predicting service usage hours over quaterly periods.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/images/CPB-hist.jpeg&quot; alt=&quot;CPB&quot; style=&quot;padding-right: 10px; padding-bottom: 10px&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/CPB-hist.jpeg&quot; alt=&quot;CPB&quot; style=&quot;padding-right: 10px; padding-bottom: 10px&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The team analyzed history data and observed rides whose cost was over $100. Also, average time buses had no passengers on was 32%. In the end of the summer the team provided King County Metro with a method to update predictions of usage hours for each day of the week and a web tool which provides cost comparison for the different options of handling a broken bus event: reschedule clients on an existing route, send a new bus, or serve them with a taxi, and aims to help dispatchers make informed decisions in case of emergency. For more details check out the project’s &lt;a href=&quot;http://dssg-paratransit.github.io/blog/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/2015/08/27/Summary.html</link>
-        <guid isPermaLink="true">http://uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/2015/08/27/Summary.html</guid>
+        <link>uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/2015/08/27/Summary.html</link>
+        <guid isPermaLink="true">uwescience.github.io/DSSG2015-paratransit/DSSG2015-paratransit/2015/08/27/Summary.html</guid>
         
         
       </item>
