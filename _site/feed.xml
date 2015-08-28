@@ -5,33 +5,20 @@
     <description>#DSSG2015 @uwescience</description>
     <link>http://uwescience.github.io/DSSG2015-paratransit//DSSG2015-paratransit//</link>
     <atom:link href="http://uwescience.github.io/DSSG2015-paratransit//DSSG2015-paratransit//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Aug 2015 14:42:34 -0700</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2015 14:42:34 -0700</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2015 10:14:59 -0700</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2015 10:14:59 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Summary</title>
-        <description>&lt;h3 id=&quot;rerouting-solutions-and-expensive-ride-analysis-for-king-county-paratransit&quot;&gt;Rerouting Solutions and Expensive Ride Analysis for King County Paratransit&lt;/h3&gt;
+        <title>Rerouting Solutions and Expensive Ride Analysis for King County Paratransit</title>
+        <description>&lt;p&gt;&lt;strong&gt;Project Lead:&lt;/strong&gt; 
+Dr. Anat Caspi, Taskar Center for Accessible Technology&lt;/p&gt;
 
-&lt;h4 id=&quot;team-lead&quot;&gt;Team Lead:&lt;/h4&gt;
-&lt;p&gt;Dr. Anat Caspi, Taskar Center of Accessible Technology&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;eScience Data Scientists:&lt;/strong&gt; Joseph Hellerstein and Valentina Staneva&lt;/p&gt;
 
-&lt;h4 id=&quot;team-data-scientists&quot;&gt;Team Data Scientists:&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Joseph Hellerstein, eScience Institute&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DSSG Fellows:&lt;/strong&gt; &lt;em&gt;Rohan Aras, Frank Fineis, Kristen Garofali, Kivan Polimis&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Valentina Staneva, eScience Institute&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;dssg-fellows&quot;&gt;DSSG Fellows:&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Rohan Aras, University of Washington&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Frank Fineis, University of Washington&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Kristen Garofali, University of Washington&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Kivan Polimis, University of Washington&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;dreu-fellow&quot;&gt;DREU Fellow:&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Emily Andrulis, Cornell College&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DREU Fellow:&lt;/strong&gt; &lt;em&gt;Emily Andrulis, Cornell College&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://uwescience.github.io/DSSG2015-paratransit/images/paratransit-collage.png&quot; alt=&quot;collage&quot; style=&quot;padding-right: 10px; padding-bottom: 10px&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
 
@@ -39,7 +26,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://uwescience.github.io/DSSG2015-paratransit/images/CPB_hist.jpeg&quot; alt=&quot;CPB&quot; style=&quot;padding-right: 10px; padding-bottom: 10px&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The team analyzed history data and observed rides whose cost was over $100. Also, average time buses had no passengers on was 32%. In the end of the summer the team provided King County Metro with a method to update predictions of usage hours for each day of the week and a web tool which provides cost comparison for the different options of handling a broken bus event: reschedule clients on an existing route, send a new bus, or serve them with a taxi, and aims to help dispatchers make informed decisions in case of emergency. For more details check out the project’s &lt;a href=&quot;http://dssg-paratransit.github.io/blog/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The team analyzed history data and observed rides whose cost per boarding was over $100. In the plot above rides to the right of the red line had cost exceeding the 90% quantile of all rides and accounted for 24.4% of total costs. The DSSG fellows delved deeper to understand what made these rides so expensive. In the end of the summer the team provided King County Metro with a method to update predictions of usage hours customized for each day of the week and a web app which provides cost comparison for the different options of handling a broken bus event: reschedule clients on an existing route, send a new bus, or serve them with a taxi. These tools aim to help the Paratransit operations better plan resources over longer periods of time and help dispatchers make informed decisions in case of emergency. For more details check out the project’s &lt;a href=&quot;http://dssg-paratransit.github.io/blog/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Aug 2015 00:00:00 -0700</pubDate>
         <link>http://uwescience.github.io/DSSG2015-paratransit//DSSG2015-paratransit//2015/08/27/Summary.html</link>
