@@ -5,13 +5,15 @@
     <description>#DSSG2015 @uwescience</description>
     <link>http://uwescience.github.io/DSSG2015-paratransit//DSSG2015-paratransit//</link>
     <atom:link href="http://uwescience.github.io/DSSG2015-paratransit//DSSG2015-paratransit//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Aug 2015 10:14:59 -0700</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2015 10:14:59 -0700</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2015 11:27:21 -0700</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2015 11:27:21 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Rerouting Solutions and Expensive Ride Analysis for King County Paratransit</title>
-        <description>&lt;p&gt;&lt;strong&gt;Project Lead:&lt;/strong&gt; 
+        <description>&lt;p&gt;&lt;img src=&quot;http://uwescience.github.io/DSSG2015-paratransit/images/Access_bus_pic.jpg&quot; alt=&quot;bus&quot; style=&quot;padding-right: 10px; padding-bottom: 10px&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project Lead:&lt;/strong&gt; 
 Dr. Anat Caspi, Taskar Center for Accessible Technology&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;eScience Data Scientists:&lt;/strong&gt; Joseph Hellerstein and Valentina Staneva&lt;/p&gt;
